@@ -1,0 +1,12 @@
+<link
+ rel="stylesheet"
+ />
+ <div id="page-wrapper">
+   <header id="header">
+     <div class="logo">
+       <img
+       id="header-img"
+       src="https://www.designyourway.net/blog/wp-content/uploads/2018/08/387011_3d-cute-wallpapers-for-desktop-hd-1-jpg_1024x768_h.jpg"
+       alt="original trombones logo"
+       />
+     </div>
